@@ -2,7 +2,6 @@
 This project is a web-based mockup inspired by the design and layout of Amazon. It's developed using HTML and CSS, showcasing design and layout techniques for educational purposes.
 <br>
 <br>
-
 <h1>Getting Started</h1>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 <br>
