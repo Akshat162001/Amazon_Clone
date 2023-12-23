@@ -7,7 +7,6 @@ This project is a web-based mockup inspired by the design and layout of Amazon. 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 <br>
 <br>
-
 <h1>Prerequisites :</h1>
 
 Any modern web browser (e.g., Chrome, Firefox, Safari).
