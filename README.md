@@ -7,7 +7,6 @@ These instructions will get you a copy of the project up and running on your loc
 <br>
 <br>
 <h1>Prerequisites :</h1>
-
 Any modern web browser (e.g., Chrome, Firefox, Safari).
 <br>
 <br>
