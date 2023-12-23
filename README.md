@@ -20,7 +20,6 @@ Any modern web browser (e.g., Chrome, Firefox, Safari).
 3.Open the index.html file in your web browser.
 <br>
 <br>
-
 <h1>Acknowledgements :</h1>
 Amazon - for design inspiration.
 Font Awesome - for icons used in the project.
